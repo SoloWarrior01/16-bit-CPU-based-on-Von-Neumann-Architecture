@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+count=        105
+$finish called at time : 104500 ps : File "D:/Verilog/ichip_ps2/ichip_ps2.srcs/sim_1/new/CPU_tb.v" Line 53
