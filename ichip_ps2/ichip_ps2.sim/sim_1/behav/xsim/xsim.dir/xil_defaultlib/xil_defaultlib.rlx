@@ -2,7 +2,7 @@
 2020.2
 Oct 14 2022
 05:20:55
-D:/Verilog/ichip_ps2/ichip_ps2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
-D:/Verilog/ichip_ps2/ichip_ps2.srcs/sim_1/new/CPU_tb.v,1690034600,verilog,,,,CPU_tb,,,,,,,,
-D:/Verilog/ichip_ps2/ichip_ps2.srcs/sources_1/new/ALU.v,1690035291,verilog,,D:/Verilog/ichip_ps2/ichip_ps2.srcs/sources_1/new/CPU.v,,ALU,,,,,,,,
-D:/Verilog/ichip_ps2/ichip_ps2.srcs/sources_1/new/CPU.v,1690034718,verilog,,D:/Verilog/ichip_ps2/ichip_ps2.srcs/sim_1/new/CPU_tb.v,,CPU,,,,,,,,
+C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.srcs/sim_1/new/CPU_tb.v,1690034600,verilog,,,,CPU_tb,,,,,,,,
+C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.srcs/sources_1/new/ALU.v,1690035291,verilog,,C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.srcs/sources_1/new/CPU.v,,ALU,,,,,,,,
+C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.srcs/sources_1/new/CPU.v,1690034759,verilog,,C:/Users/vaibh/OneDrive/Documents/GitHub/16-bit-CPU-based-on-Von-Neumann-Architecture/ichip_ps2/ichip_ps2.srcs/sim_1/new/CPU_tb.v,,CPU,,,,,,,,
