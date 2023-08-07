@@ -1,4 +1,4 @@
-# 16 bit Accumulator based CPU with 1KB memory
+# 16 bit Accumulator based CPU with 2KB memory
 This is a verilog-coded 16 bit CPU which is based on Von Neumann Architecture.
 
 ## What it is capable of?
